@@ -3,7 +3,8 @@
 What the [README](../README.md) features do on every integration, and what none can do. Each integration has its own
 page, with its limits and what DeviceSide changes in your setup: [Shelly](integrations/shelly/index.md),
 [Zigbee2MQTT](integrations/zigbee2mqtt/index.md), [ZHA](integrations/zha/index.md),
-[Matter](integrations/matter/index.md) and [Hue](integrations/hue/index.md). Which devices each feature is proven on
+[Matter](integrations/matter/index.md), [Hue](integrations/hue/index.md) and
+[Control4](integrations/control4/index.md). Which devices each feature is proven on
 is on the [device compatibility page](device-compatibility.md). How the commands work on the wire, and what was
 measured on real bulbs, is in [internals.md](internals.md) and each integration's own.
 
